@@ -53,8 +53,4 @@ Don't remove any line in `main.c` or the program will **not** work.
 
 -----------
 
-## Credits
 
-Thanks to all the people who worked on ctrulib.
-
-----------
